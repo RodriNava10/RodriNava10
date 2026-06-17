@@ -1,60 +1,67 @@
-# ¡Hola! Soy Rodrigo Navarro Leyton 👋
+# Rodrigo Navarro Leyton
 ### Ingeniero en Informática | Especialista en TI, Datos y Gestión Logística
 
-Me apasiona transformar grandes volúmenes de datos en soluciones estratégicas y optimizar la continuidad operativa de infraestructuras críticas. Cuento con una sólida trayectoria que fusiona la ingeniería de software, la analítica avanzada de datos (BI) y la dirección tecnológica en proyectos de alta exigencia operacional.
+Especialista en Ingeniería en Informática con una sólida trayectoria en la intersección de la infraestructura tecnológica, la analítica predictiva de datos y la optimización de procesos logísticos. Experiencia demostrada liderando la continuidad operativa de proyectos críticos a gran escala (sectores industrial, minero y deportivo internacional) y transformando flujos de datos complejos en ventajas estratégicas para la toma de decisiones gerenciales.
 
 ---
 
 ## 🚀 Áreas de Especialización
 
-* **Data Analytics & Business Intelligence:** Diseño e implementación de arquitecturas ETL robustas con SQL Server, modelamiento estadístico mediante Python y RStudio, y creación de tableros de control avanzados integrados en Power BI para la toma de decisiones estratégicas.
-* **Infraestructura TI & Telecomunicaciones:** Liderazgo en el despliegue técnico, soporte crítico en sitio y continuidad operativa en eventos masivos y entornos industriales complejos (Minería y Deportes Internacionales).
-* **Gestión Logística & Procesos:** Optimización del flujo logístico y administración de bodegas mediante herramientas de radiofrecuencia (WMS/RF), integración de sistemas de gestión (Softland, MAB) y desarrollo de aplicaciones a medida.
+* **Data Analytics & Business Intelligence:** Diseño e implementación de arquitecturas ETL avanzadas con SQL Server, modelamiento estadístico y scripts predictivos mediante Python y RStudio, y desarrollo de cuadros de mando (KPIs) en Power BI.
+* **Infraestructura TI & Telecomunicaciones:** Dirección técnica, aprovisionamiento crítico y despliegue de redes/comunicaciones en entornos industriales complejos y eventos masivos de alta exigencia operacional.
+* **Gestión Logística & Control de Operaciones:** Automatización y control de flujos operativos en Centros de Distribución, administración de sistemas de almacenamiento (WMS), tecnologías de radiofrecuencia (RF) e integración con ERPs (Softland, MAB).
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes y Desarrollo
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 📊 Analítica de Datos y BI
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=R&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 📊 Datos y Analítica (BI)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 💻 Desarrollo de Software
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### 📦 Gestión Operativa y Productividad
-* **ERPs & WMS:** Softland | MAB | Sistemas de Radiofrecuencia para Centros de Distribución
-* **Productividad:** Microsoft Excel (Experto) | Microsoft Access (Avanzado)
-
----
-
-## 💼 Experiencia Destacada
-
-* **Venue Technology Manager (VTM)** – *Corporación Santiago 2023*
-    * Jefe de Tecnología en sedes clave para los Juegos Panamericanos. Lideré el despliegue de infraestructura tecnológica crítica y soporte en sitio para transmisiones internacionales y prensa.
-* **Supervisor de Telecomunicaciones** – *Minera Doña Inés de Collahuasi / NAYU Ltda.*
-    * Supervisión y control del sistema de comunicación crítica para el Proyecto Mineroducto C20+, garantizando altos estándares de conectividad industrial.
-* **Analista Informático y Control de Gestión de RR.HH.** – *Recaudadora S.A.*
-    * Desarrollo de scripts avanzados en SQL Server para procesos ETL, automatización de reportes (KPIs) gerenciales y análisis volumétrico de datos transaccionales.
-* **Encargado de TI (Centro de Distribución)** – *Emasa S.A.*
-    * Administración de bases de datos de producción (SQL Server / Oracle) y desarrollo/mantenimiento de aplicaciones de escritorio en .NET para marcas líderes como Bosch.
+### 📦 Gestión de Operaciones & Sistemas ERP
+* **Sistemas Corporativos:** Softland | MAB | AS400
+* **Automatización y Logística:** Control de Inventarios (WMS) | Redes de Radiofrecuencia (RF) | Microsoft Excel (Avanzado/Experto)
 
 ---
 
-## 🎓 Formación y Certificaciones
+## 💼 Experiencia Profesional Destacada
 
-* 🎓 **Ingeniería en Informática** | *Duoc UC* (2009 – 2013)
-* 📜 **Programa de Aplicación de Datos en Entornos de Analítica (Python y RStudio)** | *Sustantiva* (2024)
-* 📜 **Curso de Especialización en Manejo de Power BI** | *Talento Local* (2025)
-* 🛠️ **Enseñanza Media Técnica: Electromecánico** | *Liceo San Sebastián*
+#### **Venue Technology Manager (VTM)** | Corporación Santiago 2023
+* Jefatura de tecnología en sedes de alta complejidad operacional durante los Juegos Panamericanos (Los Morros, Río Aconcagua, Isla de Maipo).
+* Responsable del despliegue técnico, soporte de misión crítica e infraestructura para transmisiones televisivas internacionales, prensa y áreas funcionales clave.
+
+#### **Supervisor de Telecomunicaciones** | Minera Doña Inés de Collahuasi / Constructora NAYU Ltda.
+* Supervisión y control del despliegue del sistema de comunicación crítica para el Proyecto Mineroducto C20+.
+* Aseguramiento de la conectividad industrial bajo estrictos estándares de la gran minería.
+
+#### **Analista Informático y Control de Gestión de RR.HH.** | Recaudadora S.A.
+* Diseño e implementación de scripts de extracción, transformación y carga (ETL) sobre SQL Server para análisis volumétrico de datos transaccionales.
+* Automatización de reportes analíticos y estructuración de KPIs de desempeño destinados a la alta gerencia.
+
+#### **Encargado de TI - Centro de Distribución** | Emasa S.A.
+* Administración de bases de datos relacionales de producción (SQL Server / Oracle) para operaciones de marcas globales como Bosch, Noriega y Haustecnika.
+* Desarrollo de software interno utilizando Visual Studio .NET y mantenimiento de infraestructura de redes y equipos de radiofrecuencia (WMS/RF).
 
 ---
 
-## 📬 Conectemos
+## 🎓 Formación Académica y Continua
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-navarro-7a472871/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.vamos@gmail.com)
+* **Ingeniería en Informática** – Instituto Profesional Duoc UC
+* **Programa de Aplicación de Datos en Entornos de Analítica (Python)** – Sustantiva (2026)
+* **Curso de Especialización en Manejo de Power BI y RStudio** – Talento Local (2025)
+* **Técnico en Electromecánica** – Liceo San Sebastián
+
+---
+
+## 📬 Contacto Profesional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-navarro-7a472871/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigo.vamos@gmail.com)
