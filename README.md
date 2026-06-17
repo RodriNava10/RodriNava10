@@ -55,8 +55,8 @@ Especialista en Ingeniería en Informática con una sólida trayectoria en la in
 ## 🎓 Formación Académica y Continua
 
 * **Ingeniería en Informática** – Instituto Profesional Duoc UC
-* **Programa de Aplicación de Datos en Entornos de Analítica (Python)** – Sustantiva (2026)
-* **Curso de Especialización en Manejo de Power BI y RStudio** – Talento Local (2025)
+* **Programa de Aplicación de Datos en Entornos de Analítica (Python)** – Sustantiva
+* **Curso de Especialización en Manejo de Power BI y RStudio** – Talento Local
 
 
 ---
